@@ -1,1 +1,1 @@
-# attila
+ Script and data associated with a manuscript titled "Plumage colour polymorphism in a neotropical passerine bird (Attila spadiceus, Tyrannidae): Implications for mechanistic, genetic, and ecological hypotheses" submitted to "The Biological Journal of the Linnean Society" in March 2023 by Rafael S. Marcondes, J. Tyler Howard, Eamon C. Corbett, and Robb T. Brumfield.
